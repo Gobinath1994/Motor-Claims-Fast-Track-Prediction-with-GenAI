@@ -175,6 +175,6 @@ __pycache__/
 
 ## 📬 Author
 
-**Gobinath Subramani**  
-Email: g.subramani@uqconnect.edu.au 
-Use Case: Automating motor claims triage using ML + GenAI  
+**Gobinath Subramain**  
+Email: g.subramani@uqconnect.edu.au
+Use Case: Automating motor claims triage using ML + GenAI   
