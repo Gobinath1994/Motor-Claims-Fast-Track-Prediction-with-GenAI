@@ -66,10 +66,7 @@ nohup.out
 # -----------------------------
 # Ignore raw and processed data
 # -----------------------------
-data/
-*.csv
-*.xlsx
-*.docx
+Data/
 
 # -----------------------------
 # Ignore CatBoost logs
@@ -108,3 +105,4 @@ charts/
 # -----------------------------
 .vscode/
 .DS_Store
+.pem
