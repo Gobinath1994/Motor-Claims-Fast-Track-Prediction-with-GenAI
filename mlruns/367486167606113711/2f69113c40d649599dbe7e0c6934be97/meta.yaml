@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/gobinathsindhuja/Suncorp_task/mlruns/367486167606113711/2f69113c40d649599dbe7e0c6934be97/artifacts
+end_time: 1753522402552
+entry_point_name: ''
+experiment_id: '367486167606113711'
+lifecycle_stage: active
+run_id: 2f69113c40d649599dbe7e0c6934be97
+run_name: XGBoost_optuna_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753522398558
+status: 3
+tags: []
+user_id: gobinathsindhuja

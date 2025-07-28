@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/gobinathsindhuja/Suncorp_task/mlruns/367486167606113711/43cc2744b30441bdba57df796719c2eb/artifacts
+end_time: 1753525458852
+entry_point_name: ''
+experiment_id: '367486167606113711'
+lifecycle_stage: active
+run_id: 43cc2744b30441bdba57df796719c2eb
+run_name: LR + ADASYN_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753525455414
+status: 3
+tags: []
+user_id: gobinathsindhuja

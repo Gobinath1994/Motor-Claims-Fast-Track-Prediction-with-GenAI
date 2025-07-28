@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/gobinathsindhuja/Suncorp_task/mlruns/952027609518090547/179d473dcd334fa2bea55b158626f448/artifacts
+end_time: 1753453949524
+entry_point_name: ''
+experiment_id: '952027609518090547'
+lifecycle_stage: active
+run_id: 179d473dcd334fa2bea55b158626f448
+run_name: RandomForest_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753453945943
+status: 3
+tags: []
+user_id: gobinathsindhuja

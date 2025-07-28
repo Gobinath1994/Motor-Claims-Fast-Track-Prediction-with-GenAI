@@ -1,0 +1,64 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model artifacts (TF-IDF, PCA, Scaler, Classifier, etc.)
+models/
+*.joblib
+*.pkl
+*.sav
+
+# Conda/venv environments
+env*/
+.venv/
+*.env
+
+# Streamlit cache and logs
+.streamlit/
+*.log
+*.pid
+cache/
+*/.cache/
+**/__pycache__/
+
+# Data or output files
+*.csv
+*.xlsx
+*.json
+*.db
+*.sqlite
+
+# AWS credentials / local secrets
+.aws/
+.env
+
+# VSCode and JetBrains IDE configs
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Pip/conda logs
+pip-log.txt
+conda-meta/
+
+# Docker volumes/images (if used)
+*.tar
+*.img
+
+# RDS backup dumps
+*.sql
+
+# Compiled files
+*.so
+
+# Misc
+nohup.out
+*.zip

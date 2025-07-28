@@ -1,0 +1,1 @@
+[('sampler', ADASYN()), ('scaler', StandardScaler()), ('clf', LogisticRegression(class_weight='balanced'))]

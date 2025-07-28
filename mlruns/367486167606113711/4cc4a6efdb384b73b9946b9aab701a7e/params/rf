@@ -1,0 +1,6 @@
+CalibratedClassifierCV(cv=3,
+                       estimator=RandomForestClassifier(class_weight='balanced',
+                                                        max_depth=14,
+                                                        n_estimators=221,
+                                                        random_state=42),
+                       method='isotonic')

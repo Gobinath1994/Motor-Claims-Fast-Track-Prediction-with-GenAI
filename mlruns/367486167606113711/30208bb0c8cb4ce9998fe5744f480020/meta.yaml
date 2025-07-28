@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/gobinathsindhuja/Suncorp_task/mlruns/367486167606113711/30208bb0c8cb4ce9998fe5744f480020/artifacts
+end_time: 1753524379663
+entry_point_name: ''
+experiment_id: '367486167606113711'
+lifecycle_stage: active
+run_id: 30208bb0c8cb4ce9998fe5744f480020
+run_name: LR + SVMSMOTE_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753524375824
+status: 3
+tags: []
+user_id: gobinathsindhuja

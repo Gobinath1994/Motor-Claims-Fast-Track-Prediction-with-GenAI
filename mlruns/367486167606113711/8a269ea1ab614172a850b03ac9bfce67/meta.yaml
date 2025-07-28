@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/gobinathsindhuja/Suncorp_task/mlruns/367486167606113711/8a269ea1ab614172a850b03ac9bfce67/artifacts
+end_time: 1753532730758
+entry_point_name: ''
+experiment_id: '367486167606113711'
+lifecycle_stage: active
+run_id: 8a269ea1ab614172a850b03ac9bfce67
+run_name: LogisticRegression_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753532727708
+status: 3
+tags: []
+user_id: gobinathsindhuja

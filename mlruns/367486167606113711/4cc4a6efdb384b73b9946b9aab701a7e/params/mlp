@@ -1,0 +1,5 @@
+CalibratedClassifierCV(cv=3,
+                       estimator=MLPClassifier(hidden_layer_sizes=(128,),
+                                               learning_rate_init=0.0026951734423043255,
+                                               max_iter=300, random_state=42),
+                       method='isotonic')

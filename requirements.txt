@@ -1,0 +1,43 @@
+# 📦 Core Libraries
+pandas
+numpy
+openpyxl
+sqlalchemy
+pymysql
+mysql-connector-python
+
+# 📊 Visualization
+matplotlib
+seaborn
+wordcloud
+plotly
+dataframe_image
+
+# 🧠 Machine Learning Models
+scikit-learn
+xgboost
+lightgbm
+catboost
+mlflow
+shap
+boruta
+optuna
+imbalanced-learn
+
+# 🤗 NLP & Embeddings
+sentence-transformers
+
+# ☁️ AWS + GenAI Integration
+boto3
+
+# 📋 Console Display
+tabulate
+
+# 🖥️ Dashboard UI
+streamlit
+
+# 📄 PDF Generation
+fpdf
+
+# 📓 Notebooks
+nbconvert

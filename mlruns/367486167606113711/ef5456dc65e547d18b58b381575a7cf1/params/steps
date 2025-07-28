@@ -1,0 +1,1 @@
+[('sampler', BorderlineSMOTE()), ('scaler', StandardScaler()), ('clf', LogisticRegression(class_weight='balanced'))]

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/gobinathsindhuja/Suncorp_task/mlruns/367486167606113711/3118e4c5c3d74e99a008174d89221f1a/artifacts
+end_time: 1753529293411
+entry_point_name: ''
+experiment_id: '367486167606113711'
+lifecycle_stage: active
+run_id: 3118e4c5c3d74e99a008174d89221f1a
+run_name: LightGBM_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753529290256
+status: 3
+tags: []
+user_id: gobinathsindhuja

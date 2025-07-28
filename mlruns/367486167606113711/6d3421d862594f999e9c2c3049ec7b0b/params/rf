@@ -1,0 +1,2 @@
+RandomForestClassifier(class_weight='balanced', max_depth=15, n_estimators=300,
+                       random_state=42)

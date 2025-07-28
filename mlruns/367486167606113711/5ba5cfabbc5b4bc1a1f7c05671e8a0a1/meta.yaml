@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/gobinathsindhuja/Suncorp_task/mlruns/367486167606113711/5ba5cfabbc5b4bc1a1f7c05671e8a0a1/artifacts
+end_time: 1753525481690
+entry_point_name: ''
+experiment_id: '367486167606113711'
+lifecycle_stage: active
+run_id: 5ba5cfabbc5b4bc1a1f7c05671e8a0a1
+run_name: QuadraticDiscriminantAnalysis_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753525478772
+status: 3
+tags: []
+user_id: gobinathsindhuja

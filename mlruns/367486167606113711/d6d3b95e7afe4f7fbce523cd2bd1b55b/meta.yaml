@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/gobinathsindhuja/Suncorp_task/mlruns/367486167606113711/d6d3b95e7afe4f7fbce523cd2bd1b55b/artifacts
+end_time: 1753523176470
+entry_point_name: ''
+experiment_id: '367486167606113711'
+lifecycle_stage: active
+run_id: d6d3b95e7afe4f7fbce523cd2bd1b55b
+run_name: MLP_optuna_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753523172982
+status: 3
+tags: []
+user_id: gobinathsindhuja

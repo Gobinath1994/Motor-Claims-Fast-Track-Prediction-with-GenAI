@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/gobinathsindhuja/Suncorp_task/mlruns/0/7af32b7758054b5fb3a9cf817141d517/artifacts
+end_time: 1753450392556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7af32b7758054b5fb3a9cf817141d517
+run_name: MLP_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753450344198
+status: 3
+tags: []
+user_id: gobinathsindhuja

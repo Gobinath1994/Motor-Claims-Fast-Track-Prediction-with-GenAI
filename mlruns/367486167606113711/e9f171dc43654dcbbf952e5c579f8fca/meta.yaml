@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/gobinathsindhuja/Suncorp_task/mlruns/367486167606113711/e9f171dc43654dcbbf952e5c579f8fca/artifacts
+end_time: 1753524397371
+entry_point_name: ''
+experiment_id: '367486167606113711'
+lifecycle_stage: active
+run_id: e9f171dc43654dcbbf952e5c579f8fca
+run_name: GaussianNB_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753524394349
+status: 3
+tags: []
+user_id: gobinathsindhuja

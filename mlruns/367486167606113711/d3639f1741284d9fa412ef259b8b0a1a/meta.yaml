@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/gobinathsindhuja/Suncorp_task/mlruns/367486167606113711/d3639f1741284d9fa412ef259b8b0a1a/artifacts
+end_time: 1753529082491
+entry_point_name: ''
+experiment_id: '367486167606113711'
+lifecycle_stage: active
+run_id: d3639f1741284d9fa412ef259b8b0a1a
+run_name: CatBoost_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753529079072
+status: 3
+tags: []
+user_id: gobinathsindhuja
