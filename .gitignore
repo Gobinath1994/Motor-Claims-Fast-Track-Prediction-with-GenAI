@@ -62,3 +62,49 @@ conda-meta/
 # Misc
 nohup.out
 *.zip
+
+# -----------------------------
+# Ignore raw and processed data
+# -----------------------------
+data/
+*.csv
+*.xlsx
+*.docx
+
+# -----------------------------
+# Ignore CatBoost logs
+# -----------------------------
+catboost_info/
+
+# -----------------------------
+# Ignore Python artifacts
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pkl
+*.joblib
+
+# -----------------------------
+# Ignore Jupyter Notebook junk
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# Ignore environment folders
+# -----------------------------
+env_Motor_Claim/
+.env
+.venv/
+
+# -----------------------------
+# Ignore MLflow/streamlit cache
+# -----------------------------
+mlruns/
+.streamlit/
+charts/
+
+# -----------------------------
+# VSCode and system files
+# -----------------------------
+.vscode/
+.DS_Store
