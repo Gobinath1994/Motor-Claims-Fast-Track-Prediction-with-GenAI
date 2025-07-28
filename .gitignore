@@ -105,4 +105,4 @@ charts/
 # -----------------------------
 .vscode/
 .DS_Store
-.pem
+Motor_claim_key.pem
